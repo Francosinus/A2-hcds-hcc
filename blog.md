@@ -10,14 +10,14 @@
 ### Definitions
 _How does this relate to the definitions given in the lecture?_
 The definitions from the lecture and the website are very similar. Reproducability means that someone else is able to redo all the steps from an original project using the same methods and materials (including data). Replication means that the methods (or the theory) which are used are applied to new data. 
-####Reproducability
+#### Reproducability
 _Lecture Definition_
 >A research project is computationally reproducable if a second investigator can recreate the final reported results of the project, including key quantitative findings, tables, and figures, given only a set of files and written instructions. 
 
 _Website Definition_
 >The ability of a researcher to duplicate the results of a prior study using the same materials as were used by the original investigator. That is, a second researcher might use the same raw data to build the same analysis files and implement the same statistical analysis in an attempt to yield the same results.
 
-####Replication
+#### Replication
 
 _Lecture Definition_
 >It involves applying the same methods to new data and achieving a commensurate, confirming, or contradictory result.
